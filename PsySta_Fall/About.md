@@ -1,5 +1,5 @@
 ### Introduction
-The file is about an analysis which is based on an psychological research. Related informantion are shown below.
+The file is about an analysis which is based on an psychological research. Related informantion is shown below.
 
 -----
 
